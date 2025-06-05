@@ -119,9 +119,6 @@ Contributions are welcome! To contribute:
 
 Please ensure your code follows PEP 8 guidelines and includes appropriate documentation.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 For questions or feedback, reach out to:
 - GitHub: [rohazshaik07](https://github.com/rohazshaik07)
