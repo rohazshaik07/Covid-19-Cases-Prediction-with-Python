@@ -13,7 +13,6 @@ This machine learning project predicts Covid-19 cases for the next 30 days using
 - [Results](#results)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Features
